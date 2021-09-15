@@ -8,4 +8,11 @@ This project contains 2 separeted sections **Accomoodations prices** and **Hotel
 
 ## Project structure
 There are 2 folders in the project
+1.   Accommodations
+2.   Hotels
 
+You can find the following files in each folder
+1.   *Scrap.ipnb*: contains web scrap coding 
+2.   *Analysis.ipnb*: contains the analysis on the data generated with web scraping
+3.   *Cities.txt*: contains the city list as input for web sraping
+4.   *Data.csv*: contains the data generated with web scraping as the output of webscrap part and also input of analysis part
