@@ -16,5 +16,5 @@ You can find the following files in each folder
 2.   *Analysis.ipnb*: contains the analysis on the data generated with web scraping
 3.   *Cities.txt*: contains the city list as input for web sraping
 4.   *Data.csv*: contains the data generated with web scraping as the output of webscrap part and also input of analysis part
-5.   *TourismShareInGPD.csv* : contains the data for tourism share in worldwide GPD, in the ~~Accommodations folder~~ 
+5.   *TourismShareInGPD.csv* : contains the data for tourism share in worldwide GPD, in the ***Accommodations folder***
 .
